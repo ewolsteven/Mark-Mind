@@ -78,7 +78,7 @@
     "@iktakahiro/markdown-it-katex": "^3.1.0",
     "axios": "^0.18.0",
     "echarts": "^4.7.0",
-    "electron-store": "^5.1.1",
+    "electron-store": "^8.0.0",
     "file-saver": "^2.0.2",
     "flowchart.js": "^1.13.0",
     "github-markdown-css": "^4.0.0",
